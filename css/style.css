@@ -1,0 +1,30 @@
+@font-face {
+    font-family:Raleway;
+    src: url(../fonts/Raleway-Thin.ttf);
+}
+
+*{
+    font-family: Raleway;
+    font-size: 15px;
+}
+
+header{
+    display: flex;
+    margin: 15px auto;
+    padding: 50px 50px 50px 50px;
+   }
+header img{
+    width: 75px;
+    height: 75px;
+    margin: 0 100px 0 0;
+}
+
+h1{
+    margin: 20px 100px 0 0;
+}
+main {
+    background-color: bisque;
+}
+footer {
+    background-image: url(https://kartinkin.net/pics/uploads/posts/2022-08/1661373651_22-kartinkin-net-p-mramornie-oboi-na-kompyuter-krasivo-24.jpg)
+}
